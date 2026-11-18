@@ -25,4 +25,5 @@ All Glory to Lord Jesus Christ.
 # Published
 1. GitHub: https://github.com/KJC-DNN/Album121_Instrumentals_No_Abyssal_Throne/releases/tag/121.0.0
 2. Archive: album-121-instrumentals-no-abyssal-throne-cover
-3. Zenodo:
+3. Zenodo: https://doi.org/10.5281/zenodo.24336884
+
